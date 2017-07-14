@@ -41,17 +41,18 @@
     "babel-jest": "^20.0.3",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-flow": "^6.23.0",
+    "documentation": "^4.0.0-rc.1",
     "flow-bin": "^0.48.0",
     "flow-copy-source": "^1.2.0",
     "jest": "^20.0.4",
     "jscs": "^3.0.7",
     "q": "^1.5.0",
     "rimraf": "^2.6.1",
-    "rue": "0.0.7",
+    "rue": "0.8.0",
     "rue-config": "0.0.1"
   },
   "peerDependencies": {
-    "rue": "0.0.7",
+    "rue": "0.8.0",
     "rue-config": "0.0.1"
   },
   "files": [
